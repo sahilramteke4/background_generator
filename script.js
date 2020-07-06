@@ -21,7 +21,7 @@ function setGradient() {
 	+ ")"; 
 }
 
-function randomColor() {
+var randomColor = function() {
   var letters = '0123456789ABCDEF';
   var c1 = '#';
   var c2 = '#';
